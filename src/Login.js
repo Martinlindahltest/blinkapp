@@ -20,4 +20,4 @@ function login(userId, otherUserId) {
   window.location.href = `?userId=${userId}&otherUserId=${otherUserId}`;
   //window.location.href = `apapap`;
 
-}
+} 

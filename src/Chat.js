@@ -42,6 +42,8 @@ function Chat(props) {
     textContent: m.parts[0].payload.content,
   }));
 
+  console.log('martin', props)
+
   return (
     <div className="Chat">
       <div className="Chat__titlebar">

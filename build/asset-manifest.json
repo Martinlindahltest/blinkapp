@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5fcd23b5.chunk.css",
+    "main.js": "/static/js/main.4bcdc358.chunk.js",
+    "main.js.map": "/static/js/main.4bcdc358.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f51dedae.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f51dedae.js.map",
+    "static/js/2.6254ddb7.chunk.js": "/static/js/2.6254ddb7.chunk.js",
+    "static/js/2.6254ddb7.chunk.js.map": "/static/js/2.6254ddb7.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e414f05815504aee2ad4329e825fac49.js": "/precache-manifest.e414f05815504aee2ad4329e825fac49.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5fcd23b5.chunk.css.map": "/static/css/main.5fcd23b5.chunk.css.map",
+    "static/js/2.6254ddb7.chunk.js.LICENSE": "/static/js/2.6254ddb7.chunk.js.LICENSE",
+    "static/media/chatkit-logo.svg": "/static/media/chatkit-logo.634a7875.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f51dedae.js",
+    "static/js/2.6254ddb7.chunk.js",
+    "static/css/main.5fcd23b5.chunk.css",
+    "static/js/main.4bcdc358.chunk.js"
+  ]
+}
